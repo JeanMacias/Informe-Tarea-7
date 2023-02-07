@@ -591,7 +591,19 @@ Ipri = nIsec = 0.05 * 41.7 = 2.09 A
 
 * 100 vueltas: Vsec = 100/2ooo * 240 = 12v
 
-* 
+* 200 vueltas: Vsec = 200/2ooo * 240 = 24v
+
+* 500 vueltas: Vsec = 500/2ooo * 240 = 60v
+
+* 1000 vueltas: Vsec = 1000/2ooo * 240 = 120v
+
+**32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?**
+
+**Respuesta:** Si el primero se corta, se extrae una corriente excesiva que potencialmente puede quemar la fuente y el transformador a menos que el primario esté fusionado.
+
+**34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?**
+
+**Respuesta:** Alguno, pero no todos, de los devanados secundarios están cortocircuitados o el voltaje primario es menor al esperado.
 
 
 
