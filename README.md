@@ -81,3 +81,4 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 
 ## **CAPÍTULO 14**
 
+
