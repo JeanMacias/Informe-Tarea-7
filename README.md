@@ -67,3 +67,7 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 
 ![image](https://user-images.githubusercontent.com/116774235/217160967-d5ac8ced-929c-4c3b-b997-2f9304b07f6c.png)
 
+> ### **INDUCTORES EN CIRCUITOS DE CD**
+
+![image](https://user-images.githubusercontent.com/116774235/217162478-ba52c9ce-f991-4e7e-a7b9-f57f871cd706.png)
+
