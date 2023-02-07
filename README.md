@@ -569,6 +569,29 @@ Is = Pa/Vs = (5k)/(120) = 41.7 A
 
 **c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?**
 
+Ipri = nIsec = 0.05 * 41.7 = 2.09 A
+
+**28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.**
+
+***Figura 14-52:***
+
+![image](https://user-images.githubusercontent.com/116774235/217265169-21682538-61a6-46d5-891e-0028c1626bbb.png)
+
+* Para el devanado secundario 1: n = 24/12 = 2
+
+* Para el devanado secundario 2: n = 6/12 = 0.5
+
+* Para el devanado secundario 3: n = 3/12 = 0.25
+
+**30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240**
+
+***Figura 14-54:***
+
+![image](https://user-images.githubusercontent.com/116774235/217265639-981a6f29-7328-4b93-b4fb-e31816a3b8a8.png)
+
+* 100 vueltas: Vsec = 100/2ooo * 240 = 12v
+
+* 
 
 
 
