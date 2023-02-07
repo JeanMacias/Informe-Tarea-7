@@ -123,8 +123,33 @@ Es un transformador donde el voltaje secundario es más grande que el voltaje pr
 
 Es un transformador donde el voltaje secundario es menor que el voltaje primario.
 
+![image](https://user-images.githubusercontent.com/116774235/217227095-a9f0f0c2-9f9a-47a0-8039-bed9e957e590.png)
 
+* **AISLAMIENTO DE CD**
 
+Si a través del primario de un transformador fluye corriente directa, en el secundario no sucede nada. Por consiguiente, el transformador aísla el circuito secundario de cualquier voltaje de cd presente en el circuito primario.
 
+![image](https://user-images.githubusercontent.com/116774235/217228429-5ec801ed-b53f-4bad-8ee4-d2bc299e3153.png)
 
+> ### **CARGA DEL DEVANADO SECUNDARIO**
+
+Cuando se conecta una carga resistiva al devanado secundario de un transformador, la relación de la corriente de carga (secundario) y la corriente en el circuito primario se determina por relación de vueltas.
+
+![image](https://user-images.githubusercontent.com/116774235/217229120-57e38746-0429-4434-972e-f74e59af17ad.png)
+
+* **LA POTENCIA EN EL PRIMARIO ES IGUAL A LA POTENCIA EN LA CARGA**
+
+Cuando se conecta una carga al devanado secundario de un transformador, la potencia transferida a la carga nunca puede ser mayor que la potencia en el devanado primario. Para un transformador ideal, la potencia suministrada al primario es igual a la potencia suministrada por el secundario a la carga.
+
+![image](https://user-images.githubusercontent.com/116774235/217229674-f618bd01-640e-4f54-a689-ea41ba109316.png)
+
+> ### **CARGA REFLEJADA**
+
+Desde el punto de vista del primario, una carga conectada a través del devanado secundario de un transformador parece tener una resistencia que no es necesariamente igual a la resistencia real de la carga. La carga real se “refleja” en el lado primario conforme lo determina la relación de vueltas. Esta carga reflejada es lo que la fuente primaria ve efectivamente, y determina la cantidad de corriente en el primario.
+
+![image](https://user-images.githubusercontent.com/116774235/217230072-cf1c8e21-e73d-4404-8cc2-5e5be3fbb814.png)
+
+![image](https://user-images.githubusercontent.com/116774235/217230206-c3c1ff86-35e9-4490-9a86-a584885e5d7b.png)
+
+***La ecuación muestra que la resistencia reflejada en el circuito primario es el cuadrado del recíproco de la relación de vueltas multiplicado por la resistencia de la carga.***
 
