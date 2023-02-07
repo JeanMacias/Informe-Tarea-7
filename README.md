@@ -81,4 +81,50 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 
 ## **CAPÍTULO 14**
 
+> ### **INDUCTANCIA MUTUA**
+
+Se denomina **coeficiente de acoplamiento (k)** a la relación entre las líneas de fuerza magnéticas producidas por la bobina 1 y que enlazan la bobina 2.
+
+![image](https://user-images.githubusercontent.com/116774235/217166900-feafeb99-b078-4285-bc20-47ad09e1da04.png)
+
+Por otro lado, la **inductancia mutua** es la inductancia que existe entre 2 bobinas distinas, tales como un transformador. Su fórmula es:
+
+![image](https://user-images.githubusercontent.com/116774235/217167112-80927fc3-df3a-474f-97e6-71080bb384d5.png)
+
+![image](https://user-images.githubusercontent.com/116774235/217167624-4d7599f2-51fc-4b08-bc90-c4077b6aa166.png)
+
+> ### **EL TRANSFORMADOR BÁSICO**
+
+Un transformador básico es un dispositivo eléctrico construido a partir de dos bobinas de alambre acopladas magnéticamente entre sí, de modo que existe inductancia mutua para la transferencia de potencia de un devanado al otro.
+
+![image](https://user-images.githubusercontent.com/116774235/217167738-113f757e-045f-44d0-9fea-2a1574452cec.png)
+
+**RELACIÓN DE VUELTAS**
+
+Se define como la relación del número de vueltas que hay en el devanado secundario **(Nsec)** al número de vueltas presentes en el devanado primario **(Npri)**.
+
+![image](https://user-images.githubusercontent.com/116774235/217168099-56e14d5c-3fa1-41be-b4d0-046e43fa583a.png)
+
+**DIRECCIÓN DE LOS DEVANADOS**
+
+El sentido de los devanados determina la polaridad del voltaje a través del devanado secundario (voltaje secundario) con respecto al voltaje del devanado primario (voltaje primario).
+
+![image](https://user-images.githubusercontent.com/116774235/217168488-13bf7a7f-36f0-48b9-8ea8-9d30b3e7532a.png)
+
+> ### **TRANSFORMADORES ELEVADORES Y REDUCTORES**
+
+* **TRANFORMADOR ELEVADOR**
+
+Es un transformador donde el voltaje secundario es más grande que el voltaje primario.
+
+![image](https://user-images.githubusercontent.com/116774235/217169101-0c17c4c7-1ee1-48f8-bf04-91307fe250ae.png)
+
+* **TRANSFORMADOR REDUCTOR**
+
+Es un transformador donde el voltaje secundario es menor que el voltaje primario.
+
+
+
+
+
 
