@@ -288,7 +288,41 @@ L(TOTAL3) = 800μH
 
 L(TOTAL4) = 1.5mH + 800μH = 2300μH
 
-**16. 
+**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?**
+
+Lo planteamos de la siguiente forma:
+
+8 mH = (Li * 12mH)/(Li * 12mH)
+
+8Li + 8 * 12 = 12 Li
+
+4Li = 96
+
+Li = 96/4 = 24mH
+
+**18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
+
+***Figura 13-47:***
+
+**a)** ![image](https://user-images.githubusercontent.com/116774235/217251491-82175be7-20ad-4da4-93ee-916d799ccf1d.png)
+
+L(TOTAL) = (100 * 50)/150 + (60 * 40)/ 100
+
+L(TOTAL) = 57.3 mH
+
+**b)** ![image](https://user-images.githubusercontent.com/116774235/217251745-4d37e9f4-5da3-49f6-be9b-c2f5be4e1423.png)
+
+L(TOTAL) = (12 * 6 )/18 = 4mH
+
+**c)** ![image](https://user-images.githubusercontent.com/116774235/217252007-1508c5e3-d7dd-4dfd-8091-a95713813ada.png)
+
+L(TOTAL) = 4 + (2 * 4)/6
+
+L(TOTAL) = 5.33 mH
+
+
+
+
 
 
  
