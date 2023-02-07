@@ -170,5 +170,30 @@ Desde el punto de vista del primario, una carga conectada a través del devanado
 
 ![image](https://user-images.githubusercontent.com/116774235/217238938-9a2c8889-b5c5-49d9-9bba-983ceddc12ed.png)
 
+> ### **TRANSFORMADORES CON TOMAS Y DEVANADOS MÚLTIPLES***
+
+**TRANSFORMADORES CON TOMAS**
+
+La toma central (CT, por sus siglas en inglés) equivale a dos devanados secundarios con la mitad del voltaje total a través de cada uno.
+
+![image](https://user-images.githubusercontent.com/116774235/217239939-dd121430-a80e-49d7-8fa1-88fb44cb2352.png)
+
+**TRANSFORMADORES CON MÚLTIPLES DEVANADOS**
+
+Algunos transformadores están diseñados para operar con líneas de 110V o 220V de CA. Estos transformadores, en general, tienen dos devanados primarios, cada uno de los cuales está diseñado para 110V de CA. Cuando los dos devanados están conectados en serie, el transformador puede utilizar para operación de 220V de CA.
+
+![image](https://user-images.githubusercontent.com/116774235/217240581-760ede1a-eff8-456e-aad2-19436aff2d28.png)
+
+**AUTOTRANSFORMADORES** 
+
+En un autotransformador, un devanado sirve como primario y como secundario. El devanado tiene tomas en los puntos apropiados para lograr la relación de vueltas deseada y elevar o reducir el voltaje.
+
+***TIPOS DE AUTOTRANSFORMADORES:***
+
+![image](https://user-images.githubusercontent.com/116774235/217241030-d975426c-036e-4835-ab43-c73150bc5d51.png)
+
+> ### **LOCALIZACIÓN DE FALLAS**
+
+
 
 
