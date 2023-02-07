@@ -194,6 +194,5 @@ En un autotransformador, un devanado sirve como primario y como secundario. El d
 
 > ### **LOCALIZACIÓN DE FALLAS**
 
-
-
+![Beige Colorful Pricing Table Comparison Chart](https://user-images.githubusercontent.com/116774235/217243670-3f5c0f05-db5d-4c15-967c-e73fe163e1e8.png)
 
