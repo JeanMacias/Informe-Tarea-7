@@ -155,4 +155,14 @@ Desde el punto de vista del primario, una carga conectada a través del devanado
 
 > ### **IGUALACIÓN DE IMPEDANCIA**
 
+![image](https://user-images.githubusercontent.com/116774235/217234904-bb100578-2247-4a7a-ab68-dbe06f7c2fc4.png)
+
+***Se puede igualar las resistencias en base al número de formas a partir de fórmulas:***
+
+![image](https://user-images.githubusercontent.com/116774235/217235194-fbb0c16a-660b-4cfa-bac2-350f6481336d.png)
+
+
+> ### **CARACTERÍSTICAS DE UN TRANSFORMADOR NO IDEAL (TRANSFORMADOR REAL)**
+
+
 
