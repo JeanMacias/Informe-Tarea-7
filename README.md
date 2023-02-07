@@ -8,13 +8,13 @@
 
 ## **OBJETIVO GENERAL**
 
-*
+Profundizar en la teoría acerca de inductores y sus aplicaciones.
 
 ## **OBJETIVOS ESPECÍFICOS**
 
-*
+* Comprender las aplicaciones y sus respectivas expresiones algebraicas utilizadas para determinar valores en un circuito.
 
-*
+* Analizar matemática y físicamente el efecto que producen estos tipos de transformadores en un circuito eléctrico.
 
 # **MARCO TEÓRICO**
 
@@ -630,6 +630,10 @@ Ipri = nIsec = 0.05 * 41.7 = 2.09 A
 **Respuesta:** Alguno, pero no todos, de los devanados secundarios están cortocircuitados o el voltaje primario es menor al esperado.
 
 # **CONCLUSIONES**
+
+* Los inductores para su análisis matemática sus fórmulas son similares a las estudiadas anteriormente en capacitores esto debido a que sus características están descritas como funciones exponenciales de Euler.
+
+* Los transformadores son los impulsores de la gran red eléctrica de la actualidad y funcionan únicamente con corriente alterna, ya que son dispositivos que funcionan con principios realizados por una generación de corriente cambiante.
 
 # **BIBLIOGRAFÍA**
 
