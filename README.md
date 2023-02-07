@@ -260,6 +260,8 @@ L = (100)^2(4.96 * 10^-10)/ 0.035m
 
 L = 1.78 * 10 ^-9 = 1.78 * 10^9
 
+* **SECCIÓN 13-3: INDUCTORES EN SERIE Y PARALELO**
+
 **12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?**
 
 L(TOTAL) = L1 + L2 + L3
@@ -319,6 +321,8 @@ L(TOTAL) = (12 * 6 )/18 = 4mH
 L(TOTAL) = 4 + (2 * 4)/6
 
 L(TOTAL) = 5.33 mH
+
+* **SECCIÓN 13-4: INDUCTORES EN CIRCUITOS DE CD**
 
 **20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:**
 
@@ -400,6 +404,8 @@ VTH = 2.6 V
 
 IF = (VTH)/(RTH) = (2.6V)/(4.57KΩ) = 569μs
 
+* **SECCIÓN 13-5: INDUCTORES EN CIRCUITOS DE CA**
+
 **30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.**
 
 ***Figura 13-46:***
@@ -436,6 +442,8 @@ Pr = I^2 * rms = 10.1 * 994 = 101mVAR
 
 > ### **CAPÍTULO 14**
 
+* **SECCIÓN 14-1: INDUCTANCIA MUTUA**
+
 **2. Determine el coeficiente de acoplamiento cuando LM=1 µH, L1= 8 µH, y L2 = 2 µH.**
 
 Tenemos la ecuación:
@@ -448,9 +456,13 @@ k = (LM)/√(L1 * L2)
 
 k = 1μH/ √(8 * 2) = 0.25
 
+* **SECCIÓN 14-2: EL TRANSFORMADOR BÁSICO**
+
 **4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?**
 
 Nsec = 2Npri = 2(250) = 500 vueltas
+
+* **SECCIÓN 14-3: TRANSFORMADORES ELEVADORES Y REDUCTORES**
 
 **6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?**
 
@@ -494,6 +506,8 @@ VL = 0
 
 VL = nVpri = (Ns/Np)Vp = 4 * 10 = 40V
 
+* **SECCIÓN 14-4: CARGA DEL DEVANADO SECUNDARIO**
+
 **14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?**
 
 ***Figura 14-45:***
@@ -501,6 +515,8 @@ VL = nVpri = (Ns/Np)Vp = 4 * 10 = 40V
 ![image](https://user-images.githubusercontent.com/116774235/217261540-dde20597-c95c-49c4-8ec4-482a3a646af8.png)
 
 RL = (0.10)/(20) = 5μΩ
+
+* **SECCIÓN 14-5: CARGA REFLEJADA**
 
 **16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?**
 
@@ -511,6 +527,8 @@ RL = (0.10)/(20) = 5μΩ
 Rp = (1/n)^2 * RL
 
 Rp = (1/5)^2 * 680 = 27.3 Ω
+
+* **SECCIÓN 14-6: IGUALACIÓN DE IMPEDANCIA**
 
 **18.  En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
 máxima al altavoz de 4 Æ.**
@@ -534,6 +552,8 @@ n = 1/2 = 0.5
 ![image](https://user-images.githubusercontent.com/116774235/217262786-aad66caa-745b-4dbf-93e7-eaadb8f3de79.png)
 
 ![image](https://user-images.githubusercontent.com/116774235/217262826-adec5522-d13a-4a99-b2c0-788047378300.png)
+
+* **SECCIÓN 14-7: CARACTERÍSTICAS DE UN TRANSFORMADOR NO IDEAL**
 
 **22. ¿Cuál es la eficiencia del transformador en el problema 21?**
 
@@ -571,6 +591,8 @@ Is = Pa/Vs = (5k)/(120) = 41.7 A
 
 Ipri = nIsec = 0.05 * 41.7 = 2.09 A
 
+* **SECCIÓN 14-8: TRANSFORMADORES CON TOMAS Y DEVANADOS MÚLTIPLES**
+
 **28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.**
 
 ***Figura 14-52:***
@@ -596,6 +618,8 @@ Ipri = nIsec = 0.05 * 41.7 = 2.09 A
 * 500 vueltas: Vsec = 500/2ooo * 240 = 60v
 
 * 1000 vueltas: Vsec = 1000/2ooo * 240 = 120v
+
+* **SECCIÓN 14-9: LOCALIZACIÓN DE FALLAS**
 
 **32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?**
 
