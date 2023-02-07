@@ -605,7 +605,11 @@ Ipri = nIsec = 0.05 * 41.7 = 2.09 A
 
 **Respuesta:** Alguno, pero no todos, de los devanados secundarios están cortocircuitados o el voltaje primario es menor al esperado.
 
+# **CONCLUSIONES**
 
+# **BIBLIOGRAFÍA**
+
+* Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
 
 
 
