@@ -200,3 +200,95 @@ En un autotransformador, un devanado sirve como primario y como secundario. El d
 
 > ### **CAPÍTULO 13**
 
+* **SECCÓN 13-1: EL INDUCTOR BÁSICO**
+
+**2. Convierta los siguientes valores en microhenries:**
+
+**a)** 300mH
+
+  = 300000 μH
+
+**b)** 0.08H
+
+  = 80000 μH
+  
+**c)** 5mH
+
+  = 500 μH
+  
+**d)** 0.00045mH
+
+  = 0.45 μH
+  
+**4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?**
+
+I = (50v)/(25mH) = 2H
+
+**6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 3 1025 m2 y tiene longitud de 0?05 m? La permeabilidad del núcleo es de 1.2 3 1026 H/m.**
+
+Tenemos la ecuación:
+
+L = (N^2μA)/(I)
+
+Despejando N:
+
+N = √(LI/μA)
+
+N = √(30mH)(0.05m)/(12 * 10^-6)(10 * 10^-5)
+
+N = 0.35 vueltas
+
+**8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.**
+
+**Respuesta:** El inductor 2 tendrá mayor flujo magnético a través del circuito.
+
+**10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10-6 H/m). Determine la inductancia de la bobina que se formó.**
+
+***Figura 13-43:***
+
+![image](https://user-images.githubusercontent.com/116774235/217246856-3e9ca76a-46fe-49e5-ac30-e2c4236d795d.png)
+
+Pasando la longitud de cm a m:
+
+I = 3.5 cm = 0.035m
+
+A = pi * r^2 = 4.96 * 10^-10
+
+Calculamos:
+
+L = (100)^2(4.96 * 10^-10)/ 0.035m
+
+L = 1.78 * 10 ^-9 = 1.78 * 10^9
+
+**12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?**
+
+L(TOTAL) = L1 + L2 + L3
+
+50mH = 10mH + 22mH + L3
+
+L3 = 50mH - 22mH - 10mH
+
+L3 = 18 mH
+
+**14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?**
+
+***Figura 13-45:***
+
+![image](https://user-images.githubusercontent.com/116774235/217248298-a5c97189-2f72-4c7a-ac37-8c7c797f283a.png)
+
+Calculamos la inductancia total:
+
+L(TOTAL) = L1 + L2 + L3
+
+L(TOTAL1) = 300μh + 680μH + 800μH = 1780μH
+
+L(TOTAL2) = 680μH + 800μH = 1480μH
+
+L(TOTAL3) = 800μH
+
+L(TOTAL4) = 1.5mH + 800μH = 2300μH
+
+**16. 
+
+
+ 
