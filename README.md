@@ -320,6 +320,260 @@ L(TOTAL) = 4 + (2 * 4)/6
 
 L(TOTAL) = 5.33 mH
 
+**20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:**
+
+**a) R = 56Ω, L = 50μH**
+
+T = L/R = (50μH)/(56Ω) = 89.26μs
+
+**b) R = 3300Ω, L = 15mH**
+
+T = L/R = (15mH)/(3300Ω) = 4.54μs
+
+**c) R = 22kΩ, L = 100Mh**
+
+T = L/R = (100mH)/(22kΩ) = 4.55μs
+
+**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:**
+
+***Figura 13-49:***
+
+![image](https://user-images.githubusercontent.com/116774235/217253458-222c80e8-f096-4086-9ba2-e83a4ea3f2b6.png)
+
+T = I/R = 7/8.2 = 9.15 μs
+
+IF = (Vs)/R = 10/8.2 = 1.22 mA
+
+**a) 10μs**
+
+i = IF (1 - e^(10/9.15)) = 0.811 mA
+
+**b) 20μs**
+
+i = IF (1 - e^(20/9.15)) = 1.08 mA
+
+**c) 30μs**
+
+i = IF (1 - e^(30/9.15)) = 1.17 mA
+
+**24. Repita el problema 22 para los siguientes instantes:**
+
+**a) 65μs**
+
+i = IF (1 - e^(65/9.15)) = 0.21 mA
+
+**b) 75μs**
+
+i = IF (1 - e^(75/9.15)) = 1.11 mA
+
+**c) 85μs**
+
+i = IF (1 - e^(85/9.15)) = 1.75 mA
+
+**26. **
+
+**a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?**
+
+***Figura 13-49:***
+
+![image](https://user-images.githubusercontent.com/116774235/217255814-53ed59c0-93da-44dc-8e35-7e2dff704baf.png)
+
+**Respuesta:** La polaridad es posiiva
+
+**b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?**
+
+La corriente antes de que se reduzca es de 1.22 mA
+
+**28.**
+
+**a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?**
+
+***Figura 13-50***
+
+![image](https://user-images.githubusercontent.com/116774235/217256295-04ad42bb-950e-44c7-87e6-0111ff8bf2da.png)
+
+RTH = 4.57 KΩ
+
+VTH = 2.6 V
+
+**b) ¿Cuál es la corriente después de que transcurren 5t?**
+
+IF = (VTH)/(RTH) = (2.6V)/(4.57KΩ) = 569μs
+
+**30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.**
+
+***Figura 13-46:***
+
+![image](https://user-images.githubusercontent.com/116774235/217257200-d06796bb-555a-486b-b6a0-bc3772246612.png)
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/217257369-77170692-3801-416a-b9ef-3302df0477f6.png)
+
+RTH = R1||R2 + R3||R4
+
+RTH = 4.7||4.7 + 3.3||8
+
+RTH = 4.57 KΩ
+
+**32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?**
+
+***Figura 13-51:***
+
+![image](https://user-images.githubusercontent.com/116774235/217258065-1842ce37-4b97-469e-a3db-2620b7978cc3.png)
+
+![image](https://user-images.githubusercontent.com/116774235/217258101-c8e137a9-c1cb-4060-a37a-d9e052fadb18.png)
+
+**34. En la figura 13-51, determine la potencia reactiva.**
+
+***Figura 13-51:***
+
+![image](https://user-images.githubusercontent.com/116774235/217258065-1842ce37-4b97-469e-a3db-2620b7978cc3.png)
+
+XL = 994Ω
+
+Pr = I^2 * rms = 10.1 * 994 = 101mVAR
+
+> ### **CAPÍTULO 14**
+
+**2. Determine el coeficiente de acoplamiento cuando LM=1 µH, L1= 8 µH, y L2 = 2 µH.**
+
+Tenemos la ecuación:
+
+LM = k√(L1 * L2)
+
+Si despejamos k:
+
+k = (LM)/√(L1 * L2)
+
+k = 1μH/ √(8 * 2) = 0.25
+
+**4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?**
+
+Nsec = 2Npri = 2(250) = 500 vueltas
+
+**6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?**
+
+V1 = (1/n)V2
+
+Despejando n:
+
+n = V2/V1 = (720)/(240) = 3 vueltas
+
+**8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?**
+
+V1 = (1/n)V2
+
+V1 = (1/10)60 = 6 v
+
+**10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2 ?**
+
+Vsec = 0.2(1200) = 240V
+
+**12.  ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?**
+
+***Figura 14-43:***
+
+![image](https://user-images.githubusercontent.com/116774235/217260681-60a15e54-0d35-4fc3-9735-e859752c4ef0.png)
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/217260777-3779783e-aeb1-4bec-af5d-e08a02ad148a.png)
+
+VL = nVpri = (Ns/Np)Vp = (1/20) * 120 = 6V
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/217261137-444a07fc-96b4-4390-94b1-74b675f36cbe.png)
+
+VL = 0
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116774235/217261279-33d7b596-b485-4fb7-bb5c-e912327365c4.png)
+
+VL = nVpri = (Ns/Np)Vp = 4 * 10 = 40V
+
+**14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?**
+
+***Figura 14-45:***
+
+![image](https://user-images.githubusercontent.com/116774235/217261540-dde20597-c95c-49c4-8ec4-482a3a646af8.png)
+
+RL = (0.10)/(20) = 5μΩ
+
+**16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?**
+
+***Figura 14-47:***
+
+![image](https://user-images.githubusercontent.com/116774235/217261796-07692648-e59c-44f9-8fe4-bd638d7d94f2.png)
+
+Rp = (1/n)^2 * RL
+
+Rp = (1/5)^2 * 680 = 27.3 Ω
+
+**18.  En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
+máxima al altavoz de 4 Æ.**
+
+***Figura 14-49:***
+
+![image](https://user-images.githubusercontent.com/116774235/217262340-95a743f5-ce4f-4be7-bb9d-f875261855a4.png)
+
+Rp = (1/n)^2 * RL
+
+Despejando n:
+
+1/n = √(Rp/RL)
+
+n = 1/2 = 0.5
+
+**20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.**
+
+***Figura 14-50:***
+
+![image](https://user-images.githubusercontent.com/116774235/217262786-aad66caa-745b-4dbf-93e7-eaadb8f3de79.png)
+
+![image](https://user-images.githubusercontent.com/116774235/217262826-adec5522-d13a-4a99-b2c0-788047378300.png)
+
+**22. ¿Cuál es la eficiencia del transformador en el problema 21?**
+
+PL = 100 - 5.5 = 94.5W
+
+% EFICIENCIA = (94.5/100) * 100 = 94.5%
+
+**24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.**
+
+**a) ¿Cuál es la corriente máxima de carga?**
+
+IL(max) = P/Vs = (1)/(600) = 1.67 A
+
+**b) ¿Cuál es el valor de RL más pequeño que puede ser exitado?**
+
+RL = VS/IL = (600)/(1.67) = 359 Ω
+
+**c) ¿Cuál es el capacito más grande que se puede conectar como carga?**
+
+C(max) = (1)/(2pifXc) = (1)/(2pi * 60 * 359) = 7.4μF
+
+**26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.**
+
+**a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?**
+
+Vp = 2400V
+
+n = Ns/Np = 120/2400 = 0.05
+
+**b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?**
+
+Is = Pa/Vs = (5k)/(120) = 41.7 A
+
+**c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?**
+
+
+
+
+
+
 
 
 
