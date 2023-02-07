@@ -71,3 +71,6 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 
 ![image](https://user-images.githubusercontent.com/116774235/217162478-ba52c9ce-f991-4e7e-a7b9-f57f871cd706.png)
 
+> ### **INDUCTORES EN CIRCUITOS DE CA**
+
+![image](https://user-images.githubusercontent.com/116774235/217163156-4e8f2937-23cc-42f4-a124-a904ab5363d9.png)
