@@ -164,5 +164,11 @@ Desde el punto de vista del primario, una carga conectada a través del devanado
 
 > ### **CARACTERÍSTICAS DE UN TRANSFORMADOR NO IDEAL (TRANSFORMADOR REAL)**
 
+![image](https://user-images.githubusercontent.com/116774235/217238767-0d5c91d4-6197-441f-bc0d-e549a54d0ec3.png)
+
+***Fórmula para calcular la eficiencia de un transformador***
+
+![image](https://user-images.githubusercontent.com/116774235/217238938-9a2c8889-b5c5-49d9-9bba-983ceddc12ed.png)
+
 
 
