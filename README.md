@@ -8,7 +8,7 @@
 
 ## **OBJETIVO GENERAL**
 
-Profundizar en la teoría acerca de inductores y sus aplicaciones.
+Sintetizar y profundizar la teoría acerca de inductores y sus aplicaciones.
 
 ## **OBJETIVOS ESPECÍFICOS**
 
