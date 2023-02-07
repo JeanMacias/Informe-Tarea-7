@@ -56,3 +56,6 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 > ### **CARACTERÍSTICAS FÍSICAS DE UN INDUCTOR**
 
 ![Beige Modern Pomodoro Technique Comparison Chart Infographic Graph](https://user-images.githubusercontent.com/116774235/217156490-c0da42b6-acb7-4219-8453-72c02f50a706.png)
+
+![image](https://user-images.githubusercontent.com/116774235/217158894-4d3da7ea-4bdf-4485-805b-c663d0a0899f.png)
+
