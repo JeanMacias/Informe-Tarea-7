@@ -65,3 +65,5 @@ Además, un inductor guarda energía en el campo electromagnético creado por la
 
 > ### **INDUCTORES EN SERIE Y PARALELO**
 
+![image](https://user-images.githubusercontent.com/116774235/217160967-d5ac8ced-929c-4c3b-b997-2f9304b07f6c.png)
+
