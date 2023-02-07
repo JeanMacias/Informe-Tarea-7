@@ -153,3 +153,6 @@ Desde el punto de vista del primario, una carga conectada a través del devanado
 
 ***La ecuación muestra que la resistencia reflejada en el circuito primario es el cuadrado del recíproco de la relación de vueltas multiplicado por la resistencia de la carga.***
 
+> ### **IGUALACIÓN DE IMPEDANCIA**
+
+
